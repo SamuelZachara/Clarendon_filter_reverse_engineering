@@ -1,6 +1,6 @@
 # Reverse engineering Clarendon filter from Instagram
 
-Puprose of this project is to reverse engineer photo filter Clarendon from social network Instagram and implement it into Gnome Photos.
+Purpose of this project is to reverse engineer photo filter Clarendon from social network Instagram and implement it into Gnome Photos.
 
 ## Getting Started
 
